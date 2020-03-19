@@ -10,7 +10,7 @@ PID = ''
 APPLICATIONLOG_PATH = None
 
 IP_LIST = ["192.168.1.128","","",""]
-a='2'
+a='3'
 
 
 LOG_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)),'Log/').replace('\\','/')
